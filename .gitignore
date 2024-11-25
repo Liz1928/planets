@@ -1,2 +1,4 @@
 *.csv
 results/
+log_0*
+!Log_01
